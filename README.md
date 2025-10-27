@@ -5,7 +5,7 @@
 
 I design and secure cloud infrastructures that scale—without compromising security.
 
-As a Cloud Security Engineer & Professional Cloud Architect, I protect multi-cloud environments (AWS & GCP) using Terraform, CI/CD automation, and real-time threat detection. My work bridges the gap between development and security, ensuring every deployment is secure, compliant, and resilient.
+As a Professional Cloud Architect & Cloud Security Engineer, I protect multi-cloud environments (AWS & GCP) using Terraform, CI/CD automation, and real-time threat detection. My work bridges the gap between development and security, ensuring every deployment is secure, compliant, and resilient.
 
 I transitioned from trucking to cloud engineering, proving it’s never too late to reinvent your career. I love tackling complex problems, learning new technologies, 
 and helping teams automate everything from infrastructure to deployments.
